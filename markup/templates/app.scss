@@ -1,0 +1,25 @@
+$red: red;
+
+body {
+  background: $red;
+
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.2;
+  }
+
+  a {
+    background: green;
+    display: block;
+  }
+}
+
+.add {
+  border: none;
+  outline: none;
+}
+
+
+footer {
+  background: green;
+}
